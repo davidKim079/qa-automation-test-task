@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://beust.com/testng/testng-1.0.dtd" > 
+<suite name="org.BillieTesting">
+
+		<test name="testngBillie">
+			<classes>
+				<class name="org.BillieTesting.sampleTest.java" />
+			</classes>
+		</test>
+</suite>
